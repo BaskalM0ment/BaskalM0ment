@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=baskalm0ment&label=Profile%20views&color=0e75b6&style=flat" alt="baskalm0ment" /> </p>
 <h2 align="center">What i work with<br>↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓</h2>
 
 ###
@@ -62,7 +61,7 @@
 <h3 align="center">My Socials<br>↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓</h3>
 
 ###
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=baskalm0ment&label=Profile%20views&color=0e75b6&style=flat" alt="baskalm0ment" /> </p>
 <div align="center">
   <a href="https://discordapp.com/users/900420740732551188" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
