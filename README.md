@@ -80,5 +80,6 @@
 <div align="center">
   <img height="200" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/11f2ba7d-88c4-4271-b5a6-93573195b74c/dgfhmmc-23b8609f-6755-42e3-9482-453a26b01dd9.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzExZjJiYTdkLTg4YzQtNDI3MS1iNWE2LTkzNTczMTk1Yjc0Y1wvZGdmaG1tYy0yM2I4NjA5Zi02NzU1LTQyZTMtOTQ4Mi00NTNhMjZiMDFkZDkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.D3_67fu_jjRu47bqtdReVoiPGTW_qwhfpmzpammOjX8"  />
 </div>
+<img src="https://raw.githubusercontent.com/BaskalM0ment/BaskalM0ment/output/snake.svg" alt="Snake animation" />
 
 ###
