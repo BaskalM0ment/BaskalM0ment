@@ -57,29 +57,7 @@
 </div>
 
 ###
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=baskalm0ment&label=Profile%20views&color=0e75b6&style=flat" alt="baskalm0ment" /> </p>
-<div align="center">
 
-<h3 align="center">My Socials<br>↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓</h3>
-
-###
-
-  <a href="https://discordapp.com/users/900420740732551188" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.youtube.com/@Baskalm0ment" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-</div>
-
-###
-
-<h3 align="center">!I LOVE WINDOWS 95!</h3>
-
-###
-
-<div align="center">
-  <img height="200" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/11f2ba7d-88c4-4271-b5a6-93573195b74c/dgfhmmc-23b8609f-6755-42e3-9482-453a26b01dd9.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzExZjJiYTdkLTg4YzQtNDI3MS1iNWE2LTkzNTczMTk1Yjc0Y1wvZGdmaG1tYy0yM2I4NjA5Zi02NzU1LTQyZTMtOTQ4Mi00NTNhMjZiMDFkZDkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.D3_67fu_jjRu47bqtdReVoiPGTW_qwhfpmzpammOjX8"  />
-</div>
+<img src="https://raw.githubusercontent.com/BaskalM0ment/BaskalM0ment/output/snake.svg" alt="Snake animation" />
 
 ###
