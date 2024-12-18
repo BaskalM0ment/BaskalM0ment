@@ -60,9 +60,5 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=BaskalM0ment.BaskalM0ment&left_color=black&left_text=Profile%20Visits"  />
-</div>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=baskalm0ment&label=Profile%20views&color=0e75b6&style=flat" alt="baskalm0ment" /> </p>
 ###
