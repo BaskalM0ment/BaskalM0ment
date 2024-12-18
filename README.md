@@ -51,7 +51,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aarch64/aarch64-original.svg" height="40" alt="aarch64 logo"  />
 </div>
-
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BaskalM0ment/BaskalM0ment/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BaskalM0ment/BaskalM0ment/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/BaskalM0ment/BaskalM0ment/output/github-contribution-grid-snake.svg" width="100%" height="auto">
+</picture>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baskalm0ment&label=Profile%20views&color=0e75b6&style=flat" alt="baskalm0ment" /> </p>
 
 <div align="center">
