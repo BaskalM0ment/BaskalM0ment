@@ -38,14 +38,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BaskalM0ment&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=BaskalM0ment&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1&custom_title=My%20Stats" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BaskalM0ment&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=100&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=BaskalM0ment&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BaskalM0ment&radius=16&theme=aqua&area=true&order=5&line=00ff44&title_color=00ff44&bg_color=0&hide_border=true&hide_title=false&color=02fa44&point=C0C0C0" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BaskalM0ment&radius=16&theme=aqua&area=true&order=5&line=00ff44&title_color=edfa00&bg_color=0&hide_border=true&hide_title=false&color=02fa44&area_color=C0C0C0&point=FF69B4&custom_title=Contribution" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/BaskalM0ment/BaskalM0ment/output/snake.svg" alt="Snake animation" />
 
 ###
