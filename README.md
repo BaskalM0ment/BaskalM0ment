@@ -1,12 +1,8 @@
-<img align="right" height="200" src="https://media1.tenor.com/m/fyHkHmCAu2wAAAAd/playboi-carti.gif"  />
+<div align="center">
+  <img height="200" src="https://media1.tenor.com/m/fyHkHmCAu2wAAAAd/playboi-carti.gif"  />
+</div>
 
 ###
-
-<img align="left" height="200" src="https://www.icegif.com/wp-content/uploads/2022/04/icegif-825.gif"  />
-
-###
-
-
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=baskalm0ment&label=Profile%20views&color=0e75b6&style=flat" alt="baskalm0ment" /> </p>
 <p align="center">MY LANGUAGES</p>
