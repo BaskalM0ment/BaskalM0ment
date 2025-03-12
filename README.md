@@ -1,6 +1,8 @@
-<div align="center">
-  <img height="200" src="https://www.icegif.com/wp-content/uploads/2022/04/icegif-825.gif"  />
-</div>
+<img align="right" height="200" src="https://media1.tenor.com/m/fyHkHmCAu2wAAAAd/playboi-carti.gif"  />
+
+###
+
+<img align="left" height="200" src="https://www.icegif.com/wp-content/uploads/2022/04/icegif-825.gif"  />
 
 ###
 
